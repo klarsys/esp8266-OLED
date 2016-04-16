@@ -1,4 +1,4 @@
-This is an [esp8266-Arduino](https://github.com/sandeepmistry/esp8266-Arduino) library for I2C-OLED displays.
+This is an [esp8266-Arduino](https://github.com/esp8266/Arduino) library for I2C-OLED displays.
 
 ## Credits
 
